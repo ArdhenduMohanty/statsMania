@@ -54,7 +54,7 @@ const About = () => {
             ~Ardhendu Sekhar Mohanty <br />
             <a
               style={{ fontSize: "1rem" }}
-              href="https://github.com/code1ayush/cricketstat"
+              href="https://github.com/ArdhenduMohanty/statsMania"
               target="_blank"
             >
               Github
